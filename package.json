@@ -1,0 +1,15 @@
+{
+  "name": "combo-hamster",
+  "version": "1.0.0",
+  "main": "api/GetCombo.js",
+  "scripts": {
+    "start": "node api/GetCombo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

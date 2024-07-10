@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/api/GetCombo", (req, res) => {
   const comboData = {
-    combo: ["tg_leaders", "dex", "sports_integration_0907"],
+    combo: ["oracle", "margin_trading_x30", "sports_integration_1007"],
   };
   res.json(comboData);
 });

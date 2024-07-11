@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/api/GetCombo", (req, res) => {
   const comboData = {
-    combo: ["oracle", "margin_trading_x30", "sports_integration_1007"],
+    combo: ["hamster_youtube_gold_butto", "medium", "vesting_smartcontracts"],
   };
   res.json(comboData);
 });

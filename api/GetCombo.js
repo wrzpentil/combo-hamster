@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/api/GetCombo", (req, res) => {
   const comboData = {
-    combo: ["nft_marketplace", "security_team", "prediction_markets"],
+    combo: ["sports_integration_1407", "anti_money_loundering", "youtube"],
   };
   res.json(comboData);
 });
